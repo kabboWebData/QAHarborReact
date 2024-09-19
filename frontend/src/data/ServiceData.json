@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "title": "Functional Testing",
+        "description": "Ensure software meets all functional requirements with comprehensive test cases."
+    },
+    {
+        "id": 2,
+        "title": "Automation Testing",
+        "description": "Speed up testing cycles with automated scripts for repetitive tasks."
+    },
+    {
+        "id": 3,
+        "title": "Performance Testing",
+        "description": "Evaluate software performance under high load to ensure stability and speed."
+    },
+    {
+        "id": 4,
+        "title": "Security Testing",
+        "description": "Identify vulnerabilities and safeguard your application from security risks."
+    }
+]

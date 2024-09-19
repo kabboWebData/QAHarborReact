@@ -1,0 +1,33 @@
+[
+    {
+      "id": 1,
+      "step": "Initial Consultation",
+      "description": "Understanding your project. Identify your specific QA needs and objectives."
+    },
+    {
+      "id": 2,
+      "step": "Customized Proposal",
+      "description": "Craft a detailed proposal based on your requirements."
+    },
+    {
+      "id": 3,
+      "step": "Work Initiation",
+      "description": "Finalize the work order based on client feedback."
+    },
+    {
+      "id": 4,
+      "step": "Feedback & Update",
+      "description": "Collect feedback, align with expectations for optimization."
+    },
+    {
+      "id": 5,
+      "step": "Final Test Report",
+      "description": "Submit the final test results promptly."
+    },
+    {
+      "id": 6,
+      "step": "Client Satisfaction",
+      "description": "Prioritize client happiness throughout the process."
+    }
+  ]
+  
